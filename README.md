@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/tgbotsProject/Auto-Filter-Bot/tree/master">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg"](https://heroku.com/deploy?template=https://github.com/Sreekuttansree/auto-filter-bot)
 </a>
 </p>
 </details>
